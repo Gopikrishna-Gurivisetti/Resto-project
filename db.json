@@ -1,0 +1,42 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "Gopikrishna",
+        "email": "gopi@gmail.com",
+        "password": "Gopi@1522"
+      },
+      {
+        "id": "98ba",
+        "name": "Viswas",
+        "email": "viswas@gmail.com",
+        "password": "viswas@1522"
+      },
+      {
+        "id": "ba9d",
+        "name": "Vamsi",
+        "email": "vamsi@gmail.com",
+        "password": "vamsi"
+      }
+    ],
+    "restaurants": [
+      {
+        "id": "c61d",
+        "name": "bawarchi",
+        "contact": "9381812365",
+        "address": "Hyderabad"
+      },
+      {
+        "name": "Sri anjaneya",
+        "contact": "78965623",
+        "address": "nellure",
+        "id": "1721"
+      },
+      {
+        "id": "19d8",
+        "name": "amogha",
+        "contact": "89562312",
+        "address": "kakinada"
+      }
+    ]
+  }
